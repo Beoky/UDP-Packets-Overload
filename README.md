@@ -1,3 +1,5 @@
+credits to https://github.com/blueskychan-dev/UDP-Packets-Overload/releases <3
+
 # UDP-Packets-Overload
 bluesky_channnnnnnnnnn
 
